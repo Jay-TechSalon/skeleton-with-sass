@@ -4,7 +4,7 @@
   "description": "Creating a skeleton sass starter kit for website design.",
   "main": "index.js",
   "scripts": {
-    "compile:scss": "node-sass scss/main.scss css/style.css"
+    "compile:scss": "node-sass scss/main.scss css/style.css -w"
   },
   "author": "Jay Diran",
   "license": "ISC",
