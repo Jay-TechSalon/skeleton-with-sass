@@ -1,0 +1,14 @@
+{
+  "name": "skeleton-sass-start",
+  "version": "1.0.0",
+  "description": "Creating a skeleton sass starter kit for website design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Diran",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
