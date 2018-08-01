@@ -24,11 +24,6 @@
   box-sizing: border-box;
 }
 
-// for wireframing out the layout, comment out when placing in content
-.column,
-.columns {
-  
-}
 
 // For devices larger than 400px
 @media (#{$bp-larger-than-mobile}) {
