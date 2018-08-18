@@ -22,9 +22,10 @@ $font-headings: "Montserrat", Arial, sans-serif !default;
 $font-content: "Muli", Arial, sans-serif !default;
 
 //Grid Variables
-$container-width: 960px !default;
+$container-width: 1200px !default;  // this allows the larger size screens to be larger than the default of 960
 $container-width-larger-than-mobile: 85% !default;
 $container-width-larger-than-phablet: 80% !default;
+$container-width-larger-than-desktophd: 80% !default;
 $total-columns: 12 !default;
 $column-width: 100 / $total-columns !default; // calculates individual column width based off of # of columns
 $column-margin: 4% !default; // space between columns

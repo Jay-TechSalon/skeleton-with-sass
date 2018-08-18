@@ -5,7 +5,7 @@ Working with Skeleton: Responsive CSS to run SASS differently then with Grunt an
 - install npm on your machine
 - fork, clone, download this repo
 - cd to the directory
-- npm install
+- npm init
 
 This will get your devDependencies 
 

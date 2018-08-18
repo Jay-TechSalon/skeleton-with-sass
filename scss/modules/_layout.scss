@@ -1,0 +1,27 @@
+// Layout
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+// NOTE
+// html is set to 62.5% so that all the REM measurements throughout Skeleton
+// are based on 10px sizing. So basically 1.5rem = 15px :)
+// $bp-larger-than-mobile    : "min-width: 400px" !default;
+// $bp-larger-than-phablet   : "min-width: 550px" !default;
+// $bp-larger-than-tablet    : "min-width: 750px" !default;
+// $bp-larger-than-desktop   : "min-width: 1000px" !default;
+// $bp-larger-than-desktophd : "min-width: 1200px" !default;
+// $container-width: 1200px !default;
+// $container-width-larger-than-mobile: 85% !default;
+// $container-width-larger-than-phablet: 80% !default;
+// $total-columns: 12 !default;
+// $column-width: 100 / $total-columns !default; // calculates individual column width based off of # of columns
+// $column-margin: 4% !default; // space between columns
+// For devices larger than 400px
+// @media (#{$bp-larger-than-mobile}) {
+//   .section {
+//     width: 100%;
+//
+.section {
+  padding: 8rem 0;
+  .hero {
+    text-align: center;
+  }
+}
